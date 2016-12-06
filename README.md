@@ -1,2 +1,2 @@
 # DucThanhNguyen.github.io
-My portfolio
+This is the repository of my portfolio page at GitHub pages.
